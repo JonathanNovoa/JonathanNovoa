@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+#Jonathan Novoa
+## Hola, soy **Jonathan Novoa**, actualmente estoy cursando un bootcamp Full stack en java.  
 <!--
 **JonathanNovoa/JonathanNovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
